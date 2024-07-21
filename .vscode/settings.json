@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "makefile.alwaysPreConfigure": false,
+    "makefile.configurations": [
+        
+    ],
+    "git.ignoreLimitWarning": true,
+    "python.globalModuleInstallation": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}

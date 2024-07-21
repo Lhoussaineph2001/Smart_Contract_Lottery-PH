@@ -3,4 +3,7 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
+remappings = ['@chainlink/contracts/=lib/forge-std/@chainlink/contracts/']
+# '@solmate/=lib/solmate/src' 
+#this after run : forge install transmissions11/solmate --no-commit 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
